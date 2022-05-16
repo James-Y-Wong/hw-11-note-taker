@@ -19,6 +19,8 @@ const writeToFile = (destination, content) =>
  *  @param {string} file The path to the file you want to save to.
  *  @returns {void} Nothing
  */
+
+// read the input, parse the JSON, push content, and write to file
 const readAndAppend = (content, file) => {
   fs.readFile(file, 'utf8', (err, data) => {
     if (err) {
@@ -31,6 +33,7 @@ const readAndAppend = (content, file) => {
   });
 };
 
+// read the input, parse the JSON, filter for id, rewrite to file
 const readAndDelete = (id, file) => {
     fs.readFile(file, 'utf8', (err, data) => {
       if (err) {
