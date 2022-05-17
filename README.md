@@ -28,8 +28,25 @@
   
   - Run node server.js in the command line. This will open on local host. Below is the link to the deployed application via Heroku.
 
-  [Deployed Heroku Note Taker Application](https://young-citadel-56484.herokuapp.com/)
-  
+[Deployed Heroku Note Taker Application](https://young-citadel-56484.herokuapp.com/)
+
+  > Here is a screenshot of the homepage on initial load. Click on "Get Started" to take you to the notes page. 
+  >
+  > ![Screenshot of Note Taker homepage](/public/assets/images/note-taker-homepage-screenshot.png)
+
+  > Here is a screenshot of the initial notes page.
+  >
+  > ![Screenshot of Notes after click from homepage](/public/assets/images/note-taker-notes-page-initial.png)
+
+  > To add notes, input note title and note text. Click on save icon to save the notes. Saved notes will appear on the left column.
+  >
+  > ![Screenshot of first note entered](/public/assets/images/note-taker-notes-page-first-note.png)
+
+  > To view previously saved note, click on the note title in the left column. You can delete the note by clicking on the red trash can icon. To add new note, click on the "+" on the top right hand corner.
+  >
+  > ![Screenshot of second note entered](/public/assets/images/note-taker-notes-page-second-note.png)
+
+
   ## License
   
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
