@@ -4,7 +4,7 @@
   
   ## Description
   
-  My motivation to build this project is to have a single place to keep all of my notes. Now this project will allow me to save new notes to be reviewed later. Allows me to review old notes and delete if necessary. This project solves the issue with having notes all over the place instead having it in once consolidate place.
+  My motivation to build this project is to have a single place to keep all of my notes. Now this project will allow me to save new notes to be reviewed later. Allows me to review old notes and delete if necessary. This project solves the issue with having notes all over the place instead having it in one consolidate place.
   
   ## Table of Contents
   
@@ -27,6 +27,8 @@
   Make sure you have all the prerequisites and packages installed. 
   
   - Run node server.js in the command line. This will open on local host. Below is the link to the deployed application via Heroku.
+
+  [Deployed Heroku Note Taker Application](https://young-citadel-56484.herokuapp.com/)
   
   ## License
   
